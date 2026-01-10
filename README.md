@@ -41,7 +41,7 @@ e-plantShopping/
 ⚙️ Installation & Setup
 
 Clone the repository
-git clone https://github.com/your-username/e-plantShopping.git
+git clone https://github.com/soumyaranjandas24/e-plantShopping.git
 
 Navigate to the project directory
 cd e-plantShopping
